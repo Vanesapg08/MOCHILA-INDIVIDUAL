@@ -1,0 +1,33 @@
+h1 {
+    background-color: #f5ecec; 
+    color: #005677;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+header {
+    text-align: center;
+}
+div {
+    height: 128px;
+}
+h2 {
+    background-color: #f5ecec; 
+    color: #005677;
+}
+h3 {
+    background-color: #f5ecec; 
+    color: #005677;
+}
+h4 {
+    background-color: #f5ecec; 
+    color: #005677;
+}
+h5 {
+    background-color: #edbfcf;  
+    color: #white;
+    text-align: center;
+}
+.margen {
+    margin: 80px;
+}
